@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Full-stack web applications using React, Node.js, and Express.<br>🌱 I’m currently learning: Data Structures & Algorithms in Java/C++ and backend optimization.<br>👯 I’m looking to collaborate on: Open-source React.js projects and innovative web tools.<br>🤔 I’m looking for help with: Advanced Database management and system design.<br>💬 Ask me about: React, Express, Java, and Web Development.<br>⚡ Fun fact: I can switch between solving LeetCode problems in Java and building web apps in React without blinking!
+🔭 I’m currently working on: Full-stack web applications using React, Node.js, and Express.<br>🌱 I’m currently learning: Data Structures & Algorithms in Java/C++ and backend optimization.<br>👯 I’m looking to collaborate on: Open-source React.js projects and innovative web tools.<br>🤔 💬 Ask me about: React, Express, Java, and Web Development.<br>⚡ Fun fact: I can switch between solving LeetCode problems in Java and building web apps in React without blinking!
 
 
 ## 🌐 Socials:
