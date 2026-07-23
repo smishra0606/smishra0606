@@ -46,21 +46,9 @@ I am a Computer Science and Engineering student at Lovely Professional Universit
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=smishra0606&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=smishra0606&theme=radical&v=1" alt="Trophies" />
-  </a>
-</div>
-
 ### ✍️ Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</div>
-
-### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=smishra0606&limit=5&theme=radical&combine_all_yearly_contributions=true&v=1" alt="Top Contributed Repo" />
 </div>
 
 ### 🐍 My GitHub Contribution Snake
