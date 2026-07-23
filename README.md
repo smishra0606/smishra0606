@@ -48,7 +48,9 @@ I am a Computer Science and Engineering student at Lovely Professional Universit
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=smishra0606&theme=radical&margin-w=15" alt="Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=smishra0606&theme=radical&v=1" alt="Trophies" />
+  </a>
 </div>
 
 ### ✍️ Random Dev Quote
@@ -58,17 +60,10 @@ I am a Computer Science and Engineering student at Lovely Professional Universit
 
 ### 🔝 Top Contributed Repo
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=smishra0606&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=smishra0606&limit=5&theme=radical&combine_all_yearly_contributions=true&v=1" alt="Top Contributed Repo" />
 </div>
 
 ### 🐍 My GitHub Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/smishra0606/smishra0606/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=smishra0606&icon=0&color=blue" alt="Profile Views" />
-  </a>
+  <img src="https://raw.githubusercontent.com/smishra0606/smishra0606/output/github-contribution-grid-snake.svg?v=1" alt="Snake animation" />
 </div>
