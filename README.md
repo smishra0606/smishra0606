@@ -44,7 +44,7 @@ I am a Computer Science and Engineering student at Lovely Professional Universit
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=smishra0606&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=smishra0606)]" alt="Trophies" />
 </div>
 
 ### ✍️ Random Dev Quote
@@ -58,8 +58,3 @@ I am a Computer Science and Engineering student at Lovely Professional Universit
 </div>
 
 ---
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=smishra0606&icon=0&color=0" alt="Profile Views" />
-  </a>
-</div>
