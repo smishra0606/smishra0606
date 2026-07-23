@@ -63,11 +63,7 @@ I am a Computer Science and Engineering student at Lovely Professional Universit
   <img src="https://github-contributor-stats.vercel.app/api?username=smishra0606&limit=5&theme=radical&combine_all_yearly_contributions=true&v=1" alt="Top Contributed Repo" />
 </div>
 
-### 🐍 My GitHub Contribution Snake
+### 🏙️ 3D Contribution Graph
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smishra0606/smishra0606/output/github-contribution-grid-snake-dark.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smishra0606/smishra0606/output/github-contribution-grid-snake.svg?v=1">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/smishra0606/smishra0606/output/github-contribution-grid-snake.svg?v=1">
-  </picture>
+  <img src="https://raw.githubusercontent.com/smishra0606/smishra0606/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </div>
