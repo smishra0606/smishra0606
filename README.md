@@ -1,4 +1,8 @@
-# 💫 Hi there, I'm Shiven Mishra 👋
+# 💫 Hi there, I'm Shiven Mishra <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Computer+Science+Student;Building+CodeTexa+%26+Aura+Health;LeetCode+Enthusiast" alt="Typing SVG" />
+</div>
 
 I am a Computer Science and Engineering student at Lovely Professional University, proudly holding a 20% merit scholarship. I am a passionate full-stack developer who loves building impactful applications and solving complex algorithmic challenges.
 
@@ -44,7 +48,7 @@ I am a Computer Science and Engineering student at Lovely Professional Universit
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=smishra0606)]" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=smishra0606&theme=radical&margin-w=15" alt="Trophies" />
 </div>
 
 ### ✍️ Random Dev Quote
@@ -57,4 +61,14 @@ I am a Computer Science and Engineering student at Lovely Professional Universit
   <img src="https://github-contributor-stats.vercel.app/api?username=smishra0606&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </div>
 
+### 🐍 My GitHub Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/smishra0606/smishra0606/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 ---
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=smishra0606&icon=0&color=blue" alt="Profile Views" />
+  </a>
+</div>
