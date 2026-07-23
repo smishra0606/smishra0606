@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs automatically every day at midnight
-  workflow_dispatch: # Allows you to run it manually
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
     - main
@@ -12,6 +12,10 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    
+    # THIS IS THE NEW FIX: Explicitly grant the action permission to push code
+    permissions:
+      contents: write
     
     steps:
       - name: generate github-contribution-grid-snake.svg
