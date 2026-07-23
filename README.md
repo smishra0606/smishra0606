@@ -65,5 +65,9 @@ I am a Computer Science and Engineering student at Lovely Professional Universit
 
 ### 🐍 My GitHub Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/smishra0606/smishra0606/output/github-contribution-grid-snake.svg?v=1" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smishra0606/smishra0606/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smishra0606/smishra0606/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/smishra0606/smishra0606/output/github-contribution-grid-snake.svg?v=1">
+  </picture>
 </div>
