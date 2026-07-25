@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Computer+Science+Student;Building+CodeTexa+%26+Aura+Health;LeetCode+Enthusiast" alt="Typing SVG" />
 </div>
 
-I am a Computer Science and Engineering student at Lovely Professional University, proudly holding a 20% merit scholarship. I am a passionate full-stack developer who loves building impactful applications and solving complex algorithmic challenges.
+I am a Computer Science and Engineering student at Lovely Professional University. I am a passionate full-stack developer who loves building impactful applications and solving complex algorithmic challenges.
 
 *   🔭 **I’m currently working on:** Expanding my full-stack capabilities and building platforms like **CodeTexa**, a web-based Learning Management System.
 *   🌱 **I’m currently learning:** Advanced Data Structures & Algorithms, backend optimization, and maintaining my competitive programming streak on **LeetCode**.
