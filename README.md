@@ -41,9 +41,9 @@ I am a Computer Science and Engineering student at Lovely Professional Universit
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=smishra0606&theme=dark&hide_border=false&v=1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smishra0606&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=smishra0606&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=1" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=smishra0606&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ### ✍️ Random Dev Quote
